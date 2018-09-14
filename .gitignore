@@ -1,0 +1,14 @@
+node_modules/
+.idea/
+private.*
+log/*
+.DS_Store
+result.json
+npm-debug.log
+config.json
+bin/*
+lib/*
+package.json
+.eslintrc.js
+.npmignore
+.travis.yml
